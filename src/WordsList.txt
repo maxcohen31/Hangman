@@ -1,0 +1,6 @@
+pencil
+hello
+house
+airplane
+lamp
+couch
